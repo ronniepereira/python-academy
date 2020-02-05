@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 
 nota_01 = float(input("Digite a primeira nota: "))
 nota_02 = float(input("Digite a segunda nota: "))
